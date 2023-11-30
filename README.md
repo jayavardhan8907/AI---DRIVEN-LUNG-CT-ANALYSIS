@@ -1,4 +1,4 @@
-# AI---DRIVEN-LUNG-CT-ANALYSIS
+# AI-DRIVEN LUNG CT ANALYSIS
 
 AI-Driven Lung CT Analysis
 Overview
